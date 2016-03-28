@@ -12,7 +12,7 @@ configurations.
 ## Installation
 
 ```
-git clone https://github.com/s1341/pyenv-alias.git $PYENV_ROOT/plugins/pyenv-alias
+git clone https://github.com/s1341/pyenv-alias.git $(pyenv root)/plugins/pyenv-alias
 ```
 
 ## Usage
